@@ -16,3 +16,14 @@ git config --global user.email "urimel"
 ```sh
 mkdir (nama folder)
 ```
+
+## Git Initialize
+```sh
+git init
+```
+
+## Check Status
+```sh
+git status
+```
+
